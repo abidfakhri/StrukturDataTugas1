@@ -46,6 +46,5 @@ int main(){
         }
         cout << "Nilai tertinggi pertemuan ke-" << (i+1) << " : " << nilaiTertinggi << endl;
     }
-    
     return 0;
 }

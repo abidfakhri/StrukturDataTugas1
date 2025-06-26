@@ -42,6 +42,6 @@ int main(){
         cout << bilangan[i] << " ";
     }
     cout << endl;
-
+    
     return 0;
 }
